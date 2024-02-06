@@ -34,8 +34,7 @@
 
 
 ```bash
-git clone https://github.com/your-repository-url.git
-cd your-repository-directory
+git clone https://github.com/1258790313/Galgame_automation_processing_tool.git
 ```
 
 ## 使用方法
