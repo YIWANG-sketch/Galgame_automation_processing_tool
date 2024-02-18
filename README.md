@@ -49,7 +49,7 @@
 3. 克隆本项目到本地系统。
 
 ```bash
-git clone https://github.com/1258790313/Galgame_automation_processing_tool.git
+git clone https://github.com/YIWANG-sketch/Galgame_automation_processing_tool.git
 ```
 二、可以在 `release` 页面下载最新打包版本。
 
