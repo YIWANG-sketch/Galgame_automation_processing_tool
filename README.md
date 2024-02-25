@@ -8,7 +8,7 @@
 - `WillPlus/AdvHD`引擎
   - 已实现 `pna` 复合图形的解包和封包，可用于汉化ui界面
   - 
-- 新增加了对`Softpa`l引擎的支持
+- 新增加了对`Softpal`引擎的支持
     -  `pac` 文件的解包和封包3
     -  提取与合成 `TEXT.DAT` 文件
     -  将文本提取至 `json` 文件，`name`与 `message`
